@@ -1,0 +1,12 @@
+[
+  {
+    "package": "phylochemistry",
+    "url": "https://github.com/thebustalab/phylochemistry",
+    "subdir": "phylochemistry"
+  },
+  {
+    "package": "bustalab",
+    "url": "https://github.com/thebustalab/phylochemistry",
+    "subdir": "bustalab"
+  }
+]
